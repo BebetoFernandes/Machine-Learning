@@ -5,9 +5,12 @@ Examples include, but not limited to, data collection, preprocessing and modelli
 
 
 ## Data Collection
+### SQL
+We commonly see ourselves in need for reaching our data elsewhere before being able to use it on data wrangling, feature engineering, modelling, dashboards creation and other activities. Structured Query Language **SQL** is the most common programming language when we are dealing with relational database where we can query our data and perform operations on it. In Machine Learning scenarios more diverse options are possible (Spark is one example that we are going to discuss in sequence) but when we talk about data Analytics, SQL is by far the most requested. Below you can find tutorials with SQL great explanations as well as a combination with first lessons of big query commands.
+[Repository with SQL Tutorials](https://github.com/BebetoFernandes/SQL---Intro-to-Advanced)
 
 ### Spark
-Spark is a multi-language engine that can be used for executing data engineering, data science, and machine learning on single-node machines or clusters. More detailed explanations are provided in the link below (Portuguese version, please contact me if you have any trouble reading it or need further assistance). Although there are different usage examples of it, I am adding Spark in this step of Data Collection as all my previous experiences with the language were related to extracting and preparing the data for the next steps with Python or BI tools.
+Spark is a multi-language engine that can be used for executing data engineering, data science, and machine learning on single-node machines or clusters. More detailed explanations are provided in the link below (Portuguese version, please contact me if you have any trouble reading it or need further assistance). Although there are different usage examples of it, I am adding Spark in this step of Data Collection as all my previous experiences with the language were related to **extracting** and **preparing** the data for the next steps with Python or BI tools.
 [Spark Notebook Reference](notebook_final_referencia.ipynb)
 
 ## Data Quality
